@@ -198,13 +198,13 @@ nav.navigation>span {
 }
 
 .header .logo::after {
-    background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/logo-new.svg) no-repeat center center/contain;
+    background: url(https://blogger.googleusercontent.com/img/a/AVvXsEiKOM7Ti7bAhLkWb7mnSLlDbHVN7414xsn4riu81FGAYdBi6MId2uMWMgr0YoZY-E0Py82-tna-RkO04SVQXfzkXhvnr5K1OxMl_ZEGZlMRS_p_0RKuaRJ-kLPO7k5L6eXucWjSoLJHwf3umzBYepM0_Scw91KisHBf_QK9vJdpxbLbyQootxemUWg0=s16000) no-repeat center center/contain;
 }
 
 @media screen and (min-width: 1100px) {
     .overlay-menu::after {
         content: '';
-        background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/logo-new.svg) 50%/18% no-repeat;
+        background: url(https://blogger.googleusercontent.com/img/a/AVvXsEiKOM7Ti7bAhLkWb7mnSLlDbHVN7414xsn4riu81FGAYdBi6MId2uMWMgr0YoZY-E0Py82-tna-RkO04SVQXfzkXhvnr5K1OxMl_ZEGZlMRS_p_0RKuaRJ-kLPO7k5L6eXucWjSoLJHwf3umzBYepM0_Scw91KisHBf_QK9vJdpxbLbyQootxemUWg0=s16000) 50%/18% no-repeat;
     }
 }
 
