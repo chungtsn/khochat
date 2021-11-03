@@ -15,7 +15,7 @@
 }
 
 .slogan.slogan-section-1::before {
-    background: url(../images/change/slogan.png) no-repeat center center/contain;
+    background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/slogan.png) no-repeat center center/contain;
 }
 
 /* .group-central .map-mobile .map-img {
@@ -38,7 +38,7 @@
 } */
 
 .box-slider .group-central[data-name=home-location] {
-    background: url(../images/change/map-3-background.png) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/map-3-background.png) no-repeat;
     background-position: right;
     background-size: cover;
 }
@@ -87,7 +87,7 @@
 }
 
 .box-slider .group-central[data-name=home-facilities] {
-    background: url(../images/change/tien-ich.jpeg) no-repeat center center/cover;
+    background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/tien-ich.jpeg) no-repeat center center/cover;
 }
 
 .box-slider .group-central[data-name=home-facilities] .box-facilities .item-faci-home1 {
@@ -119,7 +119,7 @@
 
 .box-slider .group-central[data-name=contact],
 div.overlay-menu.show {
-    background: url(../images/change/about.jpeg) no-repeat center center/cover;
+    background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/about.jpeg) no-repeat center center/cover;
 }
 
 div.overlay-menu.show::before {
@@ -165,11 +165,11 @@ nav.navigation>span {
 }
 
 .footer .social .facebook::after {
-    background: url(../images/change/facebook-icon.png) no-repeat center center/cover;
+    background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/facebook-icon.png) no-repeat center center/cover;
 }
 
 .footer .social .youtube::after {
-    background: url(../images/change/youtube-icon.png) no-repeat center center/cover;
+    background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/youtube-icon.png) no-repeat center center/cover;
 }
 
 .hotline .hotline-href {
@@ -189,7 +189,7 @@ nav.navigation>span {
     display: inline-block;
     vertical-align: bottom;
     margin-right: .25rem;
-    background-image: url(../images/change/register.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/register.png);
 }
 
 .box-register {
@@ -198,13 +198,13 @@ nav.navigation>span {
 }
 
 .header .logo::after {
-    background: url(../images/change/logo-new.svg) no-repeat center center/contain;
+    background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/logo-new.svg) no-repeat center center/contain;
 }
 
 @media screen and (min-width: 1100px) {
     .overlay-menu::after {
         content: '';
-        background: url(../images/change/logo-new.svg) 50%/18% no-repeat;
+        background: url(https://cdn.jsdelivr.net/gh/minhkhoi2001/2021/newcity/images/change/logo-new.svg) 50%/18% no-repeat;
     }
 }
 
