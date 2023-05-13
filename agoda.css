@@ -654,3 +654,50 @@ html[dir="rtl"] .PropertyCardPrice--CrossOutSmall:before {
   font-size: 22px;
   line-height: 22px;
 }
+.ficon-gca-wreath-left:before {
+    content: "\F2C0";
+}
+.ficon-gca-wreath-right:before {
+    content: "\F2C1";
+}
+.ficon-star-1:before {
+    content: "\F595"
+}
+
+.ficon-star-15:before {
+    content: "\F596"
+}
+
+.ficon-star-2:before {
+    content: "\F597"
+}
+
+.ficon-star-25:before {
+    content: "\F598"
+}
+
+.ficon-star-3:before {
+    content: "\F599"
+}
+
+.ficon-star-35:before {
+    content: "\F59A"
+}
+
+.ficon-star-4:before {
+    content: "\F59B"
+}
+
+.ficon-star-45:before {
+    content: "\F59C"
+}
+
+.ficon-star-5:before {
+    content: "\F59D"
+}
+.ficon-pin-star:before {
+    content: "\F3E2";
+}
+.ficon-review-icon:before {
+    content: "\F4CA";
+}
